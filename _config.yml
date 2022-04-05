@@ -6,9 +6,9 @@ plugins:
 remote_theme: dhilanr/jekyll-theme-crestlex
 
 url: https://tinyml.seas.harvard.edu
-baseurl: /SciTinyML
+baseurl: /SciTinyML-21
 
-title: SciTinyML
+title: SciTinyML 2021
 
 alert:
     - success
